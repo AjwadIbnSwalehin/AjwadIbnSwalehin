@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Ajwad Ibn-Swalehin!
 
-<!--
-**AjwadIbnSwalehin/AjwadIbnSwalehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through the world of tech, learning, and applying my skills in real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Programming Languages**: Python
+- **Frameworks**: Working on it
+- **Databases**: Working on it
+- **Other Tools**: Working on it
+
+---
+
+### 🌱 What I'm currently learning
+- Data Analytics
+- Python
+
+---
+
+### 🛠 Projects I'm working on
+Nothing right now...
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjwadIbnSwalehin&show_icons=true&theme=radical)
+
+---
+
+### 📫 Get in touch
+- LinkedIn: [Ajwad Ibn-Swalehin](https://uk.linkedin.com/in/ajwad-ibn-swalehin-a587b6267)
+
+---
