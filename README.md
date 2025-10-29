@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through
 - **Programming Languages**: Python
 - **Frameworks**: Working on it
 - **Databases**: Working on it
-- **Other Tools**: Working on it
+- **Other Tools**: Roblox Studio, Blender
 
 ---
 
