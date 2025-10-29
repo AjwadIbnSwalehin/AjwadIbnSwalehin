@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through
 ### 🌱 What I'm currently learning
 - Data Analytics
 - Python
+- Roblox Game Development
 
 ---
 
