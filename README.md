@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming Languages**: Python
+- **Programming Languages**: Python, Luau
 - **Frameworks**: Working on it
 - **Databases**: Working on it
 - **Other Tools**: Roblox Studio, Blender
