@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through
 ---
 
 ### 🛠 Projects I'm working on
-Nothing right now...
+[Bushido](https://github.com/AjwadIbnSwalehin/Bushido)
 
 ---
 
