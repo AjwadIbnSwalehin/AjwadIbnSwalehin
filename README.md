@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through
 ---
 
 ### 🛠 Projects I'm working on
-[Bushido](https://github.com/AjwadIbnSwalehin/Bushido)
-[Warhammer 40k Interactive Map](https://github.com/AjwadIbnSwalehin/wh40k-interactive-map)
+- [Bushido](https://github.com/AjwadIbnSwalehin/Bushido)
+- [Warhammer 40k Interactive Map](https://github.com/AjwadIbnSwalehin/wh40k-interactive-map)
 
 ---
 
