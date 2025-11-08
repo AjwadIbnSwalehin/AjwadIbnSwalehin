@@ -5,27 +5,24 @@ Welcome to my GitHub profile! I'm a **Degree Apprentice** working my way through
 ---
 
 ### 🔧 Technologies & Tools
-- **Programming Languages**: Python, Luau
+- **Programming Languages**: Python, Luau, Typescript
 - **Frameworks**: Working on it
 - **Databases**: Working on it
-- **Other Tools**: Roblox Studio, Blender
+- **Other Tools**: Roblox Studio, Blender, React
 
 ---
 
 ### 🌱 What I'm currently learning
 - Data Analytics
 - Python
+- React
 - Roblox Game Development
 
 ---
 
 ### 🛠 Projects I'm working on
 [Bushido](https://github.com/AjwadIbnSwalehin/Bushido)
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjwadIbnSwalehin&show_icons=true&theme=radical)
+[Warhammer 40k Interactive Map](https://github.com/AjwadIbnSwalehin/wh40k-interactive-map)
 
 ---
 
